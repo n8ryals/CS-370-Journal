@@ -1,7 +1,10 @@
 # CS-370-Journal
 **Pirate Intelligent Agent – Deep Q-Learning**
 **Project Overview**
-The goal of this project was to develop a deep Q-learning agent that can effectively navigate a maze, finding its way from the starting position (0,0) to the treasure located in the bottom right corner, while avoiding obstacles and minimizing penalties. The environment (TreasureMaze.py) and replay memory class (GameExperience.py) were provided and my task was to implement the reinforcement learning logic in the Jupyter Notebook, which included:
+The goal of this project was to develop a deep Q-learning agent that can effectively navigate a maze, finding its way from the starting position (0,0) to the treasure located
+in the bottom right corner, while avoiding obstacles and minimizing penalties. 
+The environment (TreasureMaze.py) and replay memory class (GameExperience.py) were provided and my task was to implement the reinforcement learning logic 
+in the Jupyter Notebook, which included:
 •	Epsilon-greedy exploration/exploitation
 •	Experience replay
 •	Neural network training for Q-value approximation
